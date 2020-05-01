@@ -1,3 +1,3 @@
-Paraglider mod for Repixture game
-up key = increase speed and downrate
+Paraglider mod for Repixture game <br>
+up key = increase speed and downrate <br>
 down key = decrease speed and downrate
