@@ -1,0 +1,4 @@
+# textdomain: paraglider
+Paraglider=
+Travel with the wind=
+You have to jump from hill=
